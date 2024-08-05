@@ -1,112 +1,106 @@
 ## Elias Felipe Da Silva
-Solteiro, 25 anos  
-#### Contato:
+Single, 25 years old  
+#### Contact:
  
+Email: eliasfelipedasilva1999@gmail.com 
 
-E-mail: eliasfelipedasilva1999@gmail.com 
+Phone: +55 (43) 9-9867-2206
 
-Celular: (43) 9-9867-2206
+#### Summary:
+Systems Analyst with experience in SAP technologies, solid knowledge in SAP BUSINESS TECHNOLOGY PLATFORM, Node.js, Integration Suite, Hana Cloud, SAPui5, and SAP CAP.
 
+#### Objective:
+To strengthen my role as a SAP Solutions Analyst with an emphasis on Backend, working with system development languages and cloud computing environments. Simultaneously, to develop as a SAP Solutions Engineer/Architect.
 
-#### Resumo:
-Analista de Sistemas com experiência em tecnologias SAP, sólidos conhecimentos em SAP BUSINESS TECHNOLOGY PLATFORM, Nodejs, Integration Suite, Hana Cloud,SAPui5 e SAP CAP.
+#### Education:
+- **Technical Degree in Electronics (2 Years)** – Etec “Jacinto Ferreira de Sá” – Ourinhos, 2016.
+  - **Article:** DEVELOPMENT OF A LOW-COST SEALER.
+  - **Available at:** https://drive.google.com/file/d/0B6jPyijdQl2HMVpJdFMwc2E0YXM/view?usp=sharing
+- **Technologist in Systems Analysis and Development (3 Years Mon-Sat)** – Fatec Ourinhos, 2020.
+  - **Thesis:** Implementation of a Recommendation System with NOSQL (Neo4J)
+  - **Available at:** https://github.com/eliasfelipedasilva/sysrec
 
-#### Objetivo:
-Fortalecer-me Analista de Soluções SAP com ênfase no Backend, atuar com linguagens de desenvolvimento de sistemas e ambientes virtuais cloud computing.
-Conjuntamente, desenvolver-me como Engenheiro/Arquiteto de soluções SAP.
+#### Experience:
+- **SAP SR Consultant (SAP) (7 months) - Stefanini** | Remote.
+  * **Period:** Current position
+  * **Activities:** Development of SAP (ECC and S4 Hana) and third-party system extensions and integrations using SAP BTP (Integration Suite and Extension Suite) technologies. Key technologies include SAP CAP, SAP CPI, SAP Event Mesh, and SAP HANA CLOUD. Involved in project implementation, improvements, and support.
 
-#### Formação Acadêmica:
-- **Técnico em Eletrônica (2 Anos)** – Etec “Jacinto Ferreira de Sá” – Ourinhos. 2016.
-	- **Artigo:** DESENVOLVIMENTO DE UMA SELADORA DE BAIXO CUSTO.
-	- **Disponível em:** https://drive.google.com/file/d/0B6jPyijdQl2HMVpJdFMwc2E0YXM/view?usp=sharing
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas (3 Anos Seg-Sáb)** – Fatec Ourinhos. 2020.
-	- **TCC:** Implementação de Sistema de Recomendação com NOSQL (Neo4J) 
-	- **Disponível em:** https://github.com/eliasfelipedasilva/sysrec
+- **Software Engineer (SAP) (1 year and 4 months) - Porto** | Remote.
+  * **Period:** October 2024 to January 2024
+  * **Activities:** Worked extensively with SAP BTP and SuccessFactors technologies (integration). Also worked with SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Responsibilities included SAP BTP environment governance, acting as a bridge between the client and consulting teams. Participated in requirement gathering and implementation of improvements in the organization's HR systems, focused on integrations and extensions of legacy systems.
 
-#### Experiência:
-- **Consultor SAP SR (SAP) (7 meses)  - Stefanini** |  Remoto.
-	* **Período:** Atual posição
-	* **Atividades:** Desenvolvimento de extensões e integrações de sistemas SAP (ECC e S4 Hana) e terceiros utilizando tecnologias SAP BTP (Integration Suite e Extension Suite). Dentre as tecnologias chaves incluem SAP CAP, SAP CPI, SAP Event Mesh e SAP HANA CLOUD. Tenho me envolvido com implantação de projeto, melhorias e suporte.
+- **System Solutions Analyst (SAP) II (1 year and 3 months) - Dafiti Group** | Remote.
+  * **Period:** August 2021 to October 2022
+  * **Activities:** SAP BUSINESS TECHNOLOGY PLATFORM, SAP S4 Hana, HANA CLOUD, Node.js, SAP Cloud Application Programming Model, Integration Suite (CPI, API Management, Event Mesh, etc.), SAPui5, Fiori, and Solution Development.
 
-- **Engenheiro de Software (SAP) (1 ano e 4 meses)  - Porto** |  Remoto.
-	* **Período:** Outubro/2024 a Janeiro/2024
-	* **Atividades:** Trabalhei extensivamente com tecnologias SAP BTP e SuccessFactors (integração). Também atuei com as tecnologias SAP Event Mesh, SAP CAP, Cloud Foundry, CPI, Hana Cloud, and SAP Workflow Management. Minhas responsabilidades incluiram a governança do ambiente SAP BTP, atuando como ponte entre cliente e times de consultorias. Participei de levantamento de requisitos e implementações de melhorias em sistemas de RH da organização, focados em integrações e extensões de sistemas legados.
+- **Junior SAP BTP Consultant (8 months) - L4E Lab for Extensions** | Remote.
+  * **Period:** December 2020 to July 2021
+  * **Activities:** SAP BUSINESS TECHNOLOGY PLATFORM, SAP S4 Hana, HANA CLOUD, Node.js, SAP Cloud Application Programming Model, Sequelize, SAPui5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Requirements Analysis, and Solution Development.
+  * **Projects:**
+    * **Digital Admission - Onboarding - Client: BRF S.A.**
+    * Tax Payment - Client: Cienci
 
-- **Analista De Soluções de Sistemas (SAP) II (1 ano e 3 meses)  - Dafiti Group** |  Remoto.
-	* **Período:** Agosto/2021 até Outubro/2022
-	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM,SAP S4 Hana, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model,Integration Suite (CPI, API Management, Event Mesh etc) , SapUi5, Fiori e Desenvolvimento de Soluções.
+- **SCP Development Intern (1 year) - L4E Lab for Extensions** | Partially Remote.
+  * **Period:** December 2019 to December 2020
+  * **Activities:** SAP CLOUD PLATFORM, PGSQL databases, Node.js, SAPui5, Fiori, SAP Intelligent Robotic Process Automation, SAP Integration Suite.
 
-- **Consultor SAP BTP Junior (8 meses)  - L4E Lab for Extensions** |  Remoto.
-	* **Período:** Dezembro/2020 até Julho/2021
-	* **Atividades:** Plataforma SAP BUSINESS TECHNOLOGY PLATFORM,SAP S4 Hana, HANA CLOUD, Nodejs,SAP Cloud Application Programming Model, Sequelize, SapUi5, Fiori, SAP Intelligent Robotic Process Automation, SAP Document Information Extraction, SAP Integration Suite, Análise de Requisitos e Desenvolvimento de Soluções.
-	* **Pojetos:**
-		* **Admissão Digital - onBoarding - Cliente: BRF S.A**.
-		* Pagamento de Tributos - Tax Payment - Cliente: Cienci
+- **Health Agent (1 year and 9 months) - Municipal Prefecture of Andirá (SUS)**.
+  * **Period:** April 2018 to December 2019
+  * **Activities:** 
+    * Inspecting residences, warehouses, vacant lots, and commercial establishments for endemic foci.
+    * Providing guidance on the prevention and treatment of infectious diseases.
+    * Animal census.
 
-- **Estágio em desenvolvimento SCP (1 ano)  - L4E Lab for Extensions** | Parcialmente Remoto.
-	* **Período:** Dezembro 2019 até Dezembro 2020 .
-	* **Atividades:** Plataforma SAP CLOUD PLATFORM, bancos de dados PGSQL, Nodejs, SapUi5, Fiori, SAP Intelligent Robotic Process Automation.SAP Integration Suite.
-	
-- **Agente De Saúde (1 ano e 9meses)  - Prefeitura Municipal de Andirá (SUS)**.
-	* **Período:** Abril/2018 até Dezembro/2019.
-	* **Atividades:** 
-		* Vistoria de residências, depósitos, terrenos baldios e estabelecimentos comerciais para buscar focos endêmicos.
-		* Orientações quanto à prevenção e tratamento de doenças infecciosas.
-		* Recenseamento de animais.
-
-- **Office Boy (11 meses) - Escritório de Contabilidade Pantaleão**. 
-	* **Período:** Maio/2017 Até Abril/2018. 
-	* **Atividades:** 
-		* Manutenção de Computadores e apoio nos treinamentos de operação de sistemas contábeis.
-		* Fechamento de Caixas.
-		* Emissão de relatórios de ganhos mensais do escritório.
+- **Office Boy (11 months) - Pantaleão Accounting Office**. 
+  * **Period:** May 2017 to April 2018
+  * **Activities:** 
+    * Computer maintenance and support in accounting system operation training.
+    * Cash register closing.
+    * Issuing monthly earnings reports for the office.
 		
-#### Habilidades: 
+#### Skills: 
 - SAP BUSINESS TECHNOLOGY PLATFORM.
-- Desenvolvimento e integração Restful Apis.
+- Development and integration of Restful APIs.
 - Integration Suite (BTP).
 - Extension Suite (BTP).
-- Gerenciador de Código Fonte GIT.
-- Desenvolvimento de APIS usando Nodejs e Python
+- Source Code Manager GIT.
+- API development using Node.js and Python.
 
-
-#### Linguagens: 
-Linguagens as quais possuo mais facilidade são JavaScript, Python, SQL e PHP.   
-Também conheço: Groovy(cpi), C.
+#### Languages: 
+The languages I am most proficient in are JavaScript, Python, SQL, and PHP.   
+I am also familiar with: Groovy (CPI), C.
 
 #### Frameworks: 
-Nodejs, SAP Cloud Application Programming Model, SapUi5, React, Laravel, FastAPI, Nestjs, Express Nodejs.
+Node.js, SAP Cloud Application Programming Model, SAPui5, React, Laravel, FastAPI, Nest.js, Express Node.js.
 
-#### Idioma:
-- Inglês: Boa leitura, boa compreensão, escrita razoável e conversação intermediária.
-		
-#### Cursos e Certificações:
-**Building Applications on SAP BTP with Microsoft Services** - OpenSap
+#### Language Proficiency:
+- English: Good reading, good comprehension, reasonable writing, and intermediate conversation.
+
+#### Courses and Certifications:
+**Building Applications on SAP BTP with Microsoft Services** - OpenSap  
 https://open.sap.com/verify/xumeg-cisud-nozim-zirom-lafur
 
-**Introduction to Abap in the Cloud** - OpenSap
-Certificado: https://open.sap.com/verify/xunel-rutak-nydac-zybym-dymyb
+**Introduction to ABAP in the Cloud** - OpenSap  
+Certificate: https://open.sap.com/verify/xunel-rutak-nydac-zybym-dymyb
 
-**Enter Next-Level Bot Building with SAP Intelligent RPA 2.0 (2021 Edition)** - OpenSap
-Certificado: https://open.sap.com/verify/xetav-sykul-rycic-fezyk-zavoc
+**Enter Next-Level Bot Building with SAP Intelligent RPA 2.0 (2021 Edition)** - OpenSap  
+Certificate: https://open.sap.com/verify/xetav-sykul-rycic-fezyk-zavoc
 
-**Spring Boot Expert: JPA, RESTFul API, Security, JWT e Mais** (12,5h) - Udemy
-Certificado: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
+**Spring Boot Expert: JPA, RESTFul API, Security, JWT and More** (12.5h) - Udemy  
+Certificate: https://www.udemy.com/certificate/UC-148e4d7d-47f0-4291-ac1e-3578d2692907
 
-**PHP Completo: Curso do Desenvolvedor Web 2020 e Projetos** (12,5h) - Udemy
-Certificado: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246 
+**Complete PHP: Web Developer Course 2020 and Projects** (12.5h) - Udemy  
+Certificate: https://www.udemy.com/certificate/UC-b3d33cd5-8a78-42cc-9956-3e174c235246
 
-**Introdução a Ciência da Computação com Python** (41h) - USP plataforma Coursera   
-Certificado: https://www.coursera.org/account/accomplishments/certificate/4W5VVV27VEAR
+**Introduction to Computer Science with Python** (41h) - USP platform Coursera  
+Certificate: https://www.coursera.org/account/accomplishments/certificate/4W5VVV27VEAR
 
-**Perícia Digital Com Uso do Sistema Operacional ParrotSec** (4h) - Fatec Ourinhos - Centro Paula Souza
-Certificado: https://www.fatecourinhos.edu.br/declaracoes/inscricao/1006195
+**Digital Forensics Using ParrotSec Operating System** (4h) - Fatec Ourinhos - Centro Paula Souza  
+Certificate: https://www.fatecourinhos.edu.br/declaracoes/inscricao/1006195
 
-**Toeic Bridge - A1**
-Credencial: D4F7A43CED   
+**TOEIC Bridge - A1**
+Credential: D4F7A43CED
 
-## Perfis 
+## Profiles
 **LinkedIn**: https://www.linkedin.com/in/elias-felipe-da-silva-b58a8213b  
-**Github**: https://github.com/eliasfelipedasilva 
-**Uri Judge**: https://www.urionlinejudge.com.br/judge/pt/profile/192767
-
+**Github**: https://github.com/eliasfelipedasilva  
